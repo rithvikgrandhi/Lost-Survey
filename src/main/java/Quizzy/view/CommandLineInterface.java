@@ -59,9 +59,9 @@ public class CommandLineInterface implements Serializable {
 
     private void logo() {
         String logo = """
-        █╬ ███ ██ ███ ██ █╬█ ███ █▄█ ██ █╬█
-        █╬ █╬█ █▄ ╬█╬ █▄ █╬█ █▄╬ ███ █▄ █▄█
-        ██ █▄█ ▄█ ╬█╬ ▄█ ███ █╬█ ╬█╬ █▄ ╬█╬
+
+        LOST-SURVEY
+
                 """;
         System.out.println(logo);
     }
